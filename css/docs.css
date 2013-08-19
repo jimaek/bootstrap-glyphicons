@@ -26,11 +26,11 @@ h2 {
   color: #fff;
   color: rgba(255,255,255,.75);
   text-align: center;
-  background-color: #b94a48;
+  background-color: #FF7515;
   border-radius: 0;
 }
 .jumbotron h1,
-.jumbotron .glyphicon-ok {
+.jumbotron .glyphicon-globe {
   margin-bottom: 15px;
   font-weight: 300;
   letter-spacing: -1px;
